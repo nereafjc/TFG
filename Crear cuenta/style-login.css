@@ -1,0 +1,54 @@
+body {
+    background-color: #F5EBE0;
+  margin: 0px;
+  }
+
+
+  header {
+    background-color: #EBE1D6;
+  }
+
+#logo {
+    padding: 24px 0px 24px 0px;
+    display: block;
+    margin: auto;
+  }
+  
+.login{
+    background-color: #F5EBE0;
+}
+
+.card{
+    border-radius: 16px;
+    background-color: #D6CCC2;
+    border: solid 1px #D6CCC2 ;
+}
+
+
+.img-fluid{
+    border-radius: 16px 0 0 16px;
+}
+
+.container{
+    padding-top: 112px;
+}
+
+.form-control{
+    background-color: #EDEDE9;
+}
+
+.form-control:focus{
+    background-color: #EDEDE9;
+    border: solid 4px #BFAF9F;
+    box-shadow: none;
+}
+
+.btn{
+    background-color: #BFAF9F;
+width: 50%;
+}
+
+.btn:hover{
+    background-color: #EDEDE9;
+border: solid 2px #BFAF9F;
+}    

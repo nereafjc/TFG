@@ -1,0 +1,247 @@
+body {
+  background-color: #F5EBE0;
+
+}
+
+.header,
+header {
+  background-color: #EBE1D6;
+}
+
+#logo {
+  padding: 20px 20px 0px 20px;
+  display: block;
+  margin: auto;
+}
+
+.menu {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+
+}
+
+.carrousel {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+img {
+  margin-left: 26px;
+  margin-top: 50px
+}
+
+.slogan {
+  display: block;
+  margin: auto;
+  margin-top: 70px
+}
+
+
+
+
+.nombres {
+  position: absolute;
+  width: 323px;
+  height: 38px;
+
+  font-family: 'Mountainous';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 43px;
+
+  color: #000000;
+}
+
+.fecha-boda {
+  position: absolute;
+  width: 214px;
+  height: 28px;
+
+  font-family: 'Noto Looped Thai';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+
+  color: #000000;
+}
+
+
+
+
+
+.num-dias{position: absolute;
+width: 54px;
+height: 35px;
+
+font-family: 'Mountainous';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 53px;
+
+color: #000000;
+}
+
+
+
+
+
+.num-horas{position: absolute;
+width: 53px;
+height: 35px;
+
+font-family: 'Mountainous';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 53px;
+
+color: #000000;
+}
+
+
+
+
+
+.num-min{
+  position: absolute;
+width: 57px;
+height: 35px;
+
+font-family: 'Mountainous';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 53px;
+
+color: #000000;
+
+}
+
+
+
+
+
+.num-seg{
+  position: absolute;
+width: 59px;
+height: 35px;
+
+font-family: 'Mountainous';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 53px;
+
+color: #000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+.dias{
+  position: absolute;
+width: 15px;
+height: 28px;
+
+font-family: 'Noto Looped Thai';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+
+color: #000000;
+}
+
+
+
+
+
+
+.horas{
+
+  position: absolute;
+  width: 14px;
+  height: 29px;
+  left: 231px;
+  top: 1084px;
+  
+  font-family: 'Noto Looped Thai';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  
+  color: #000000;
+}
+
+
+
+
+
+.minutos{
+
+  position: absolute;
+  width: 19px;
+  height: 29px;
+  left: 305px;
+  top: 1084px;
+  
+  font-family: 'Noto Looped Thai';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  
+  color: #000000;
+}
+
+
+
+
+.segundos{
+
+  position: absolute;
+  width: 10px;
+  height: 28px;
+  left: 386px;
+  top: 1085px;
+  
+  font-family: 'Noto Looped Thai';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  
+  color: #000000;
+}
+
+
+
+
+.img-flores{
+
+  position: absolute;
+  width: 168px;
+  height: 231px;
+  left: 467px;
+  top: 929px;
+  
+}
+
+
+
+
